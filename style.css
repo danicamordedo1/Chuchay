@@ -1,11 +1,29 @@
-body{
-    background-color: rgb(196, 202, 255) ;
-}
-.mama{
-    color:violet;
-    
+#header{
+    background-color: lightgreen;
+    text-align: center;
 }
 
+#main{
+    background-color: aquamarine;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+    padding-left: 50px;
+
+}
+
+#section{
+    background-color: beige;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+
+}
+
+#footer{
+    background-color: bisque;
+}
 
  
   
