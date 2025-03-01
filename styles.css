@@ -24,4 +24,9 @@ header{
 footer{
     background-color: bisque;
 }
+main{
+    background-color: rgb(198, 161, 247);
+    background-repeat: no-repeat;
+    
+}
 
